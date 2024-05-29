@@ -1,3 +1,16 @@
+Open calculator here [Calculator](https://simple-calculator-git-main-sofia-velasquezs-projects.vercel.app/)
+## Puntos
+- **(10 puntos) Por cada test que implementen, para un máximo de 50 puntos**: Se implementaron 5 tests importantes para el funcionamiento de la calculadora, entonces serían **50 puntos**
+- <img width="935" alt="image" src="https://github.com/Sofiamishel2003/simple-calculator/assets/98661058/984465a0-5238-4a79-a919-cdada50d93b4">
+- **(10 puntos) Por cada diferente componente que tenga historias (storybook)**: Se implementaron los storybook de 3 componentes, Button, header y page.Entonces serían **30 puntos**
+- **(10 puntos) Por implementar el punto decimal**: Implementado correctamente
+- **(10 puntos)Por implementar la operación “división”**: se realizan bien las diviciones decimales. 
+- ![image](https://github.com/Sofiamishel2003/simple-calculator/assets/98661058/10e19e2c-60ba-4870-88e1-89cc8828f9d7)
+- **(20 puntos) Por hacer su calculadora en next**: se utilizó next para hacer el proyecto
+  ### Puntuación Total**: 120
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
